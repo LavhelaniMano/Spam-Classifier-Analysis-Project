@@ -1,5 +1,5 @@
-Python Version 3.11
+Python Version 3.13.5
 
 Libraries:
 pandas
-scikit-learn
+scikit-learn (includes naive_bayes)
