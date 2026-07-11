@@ -53,7 +53,7 @@ The classifier was tested across four different test split sizes to observe how 
 
 **Lavhelani Mano**
 Computer Science Honours Student
-University of South Africa
+University of the Western Cape
 
 ## References
 
