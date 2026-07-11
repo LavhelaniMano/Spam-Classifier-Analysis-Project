@@ -1,4 +1,5 @@
-Language: 
-Python Version 3.2
+Python Version 3.11
 
-Libraries: 
+Libraries:
+pandas
+scikit-learn
